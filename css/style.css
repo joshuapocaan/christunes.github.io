@@ -1,9 +1,74 @@
+@import url('https://fonts.googleapis.com/css?family=Alata&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Lato&display=swap');
+
 body {
-  background: url(/bg.jpg) no-repeat center center fixed;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  background-size: cover;
-  -o-background-size: cover;
-    filter: blur(100px);
-  -webkit-filter: blur(100px);
+    background-color: #F8B229;
+    
+}
+
+a.color-it.navbar-brand {
+    font-family: 'Alata', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+ul.navbar-nav.nav-link{
+    color: white; 
+    
+}
+
+.navbar-light, .dropdown-menu{
+    background-color: #146B3A;
+}
+
+.slider-1 {
+    background: url(https://blog.nationalbookstore.com/wp-content/uploads/2016/12/Top-10-Pinoy-Christmas-Traditions.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.slider-2 {
+    background: url(https://ourmaninproject.files.wordpress.com/2011/12/busan.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.slider-3 {
+    background: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F630203420%2F960x0.jpg%3Ffit%3Dscale);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.slider-4 {
+    background: url(https://lh3.googleusercontent.com/1Ff_ETVCUtjnj2J5bC2pzEeilqrAJ0kAXAsXAkXmP-uyx3ynzDPkaOj9MadVnf6NgF5wrA2uaDDrf5gNd9ZDZev1rqzZm6qY=w1600-rw);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100%;
+    width: 100%;
+}
+
+.slider-title{
+    font-family: 'Alata', sans-serif;
+    font-weight: bold;
+    color: white;
+}
+
+.slider-sub{
+    font-family: 'Lato', sans-serif;
+    color: white;
+    text-align: center;
+    text-shadow: 2px 2px 2px #000000;
+}
+
+.slider-title-1{
+    font-family: 'Alata', sans-serif;
+    font-weight: bold;
+    color:#BB1412;
+    text-shadow: 2px 2px 2px white;
 }
