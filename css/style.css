@@ -12,11 +12,6 @@ a.color-it.navbar-brand {
     color: white;
 }
 
-ul.navbar-nav.nav-link{
-    color: white; 
-    
-}
-
 .navbar-light, .dropdown-menu{
     background-color: #146B3A;
 }
