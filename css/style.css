@@ -12,39 +12,35 @@ a.color-it.navbar-brand {
     color: white;
 }
 
-.navbar-light, .dropdown-menu{
+.navbar-dark, .dropdown-menu{
     background-color: #146B3A;
 }
 
-.slider-1 {
+.slider-1, .pinoy-jumbotron {
     background: url(https://blog.nationalbookstore.com/wp-content/uploads/2016/12/Top-10-Pinoy-Christmas-Traditions.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
     width: 100%;
 }
 
-.slider-2 {
+.slider-2, .classic-jumbotron {
     background: url(https://ourmaninproject.files.wordpress.com/2011/12/busan.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
     width: 100%;
 }
 
-.slider-3 {
+.slider-3, .hip-jumbotron {
     background: url(https://thumbor.forbes.com/thumbor/960x0/https%3A%2F%2Fspecials-images.forbesimg.com%2Fdam%2Fimageserve%2F630203420%2F960x0.jpg%3Ffit%3Dscale);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
     width: 100%;
 }
 
-.slider-4 {
+.slider-4, k-jumbotron{
     background: url(https://lh3.googleusercontent.com/1Ff_ETVCUtjnj2J5bC2pzEeilqrAJ0kAXAsXAkXmP-uyx3ynzDPkaOj9MadVnf6NgF5wrA2uaDDrf5gNd9ZDZev1rqzZm6qY=w1600-rw);
     background-repeat: no-repeat;
     background-size: cover;
-    height: 100%;
     width: 100%;
 }
 
@@ -65,5 +61,57 @@ a.color-it.navbar-brand {
     font-family: 'Alata', sans-serif;
     font-weight: bold;
     color:#BB1412;
+    text-align: center;
     text-shadow: 2px 2px 2px white;
+    font-size: 2.5rem;
 }
+
+.slider-title-2{
+    font-family: 'Alata', sans-serif;
+    font-weight: bold;
+    color:#4DBE50;
+    text-shadow: 2px 2px 2px white;
+    font-size: 2.5rem;
+}
+
+.slider-title-3{
+    font-family: 'Alata', sans-serif;
+    font-weight: bold;
+    color:#D5AC3A;
+    text-shadow: 2px 2px 2px white;
+    font-size: 2.5rem;
+}
+
+
+.slider-title-4{
+    font-family: 'Alata', sans-serif;
+    font-weight: bold;
+    color:#CDCCC3;
+    text-shadow: 2px 2px 2px black;
+    font-size: 2.5rem;
+}
+
+.slider-title-1:hover{
+    text-decoration: underline;
+    color: red;
+}
+
+.slider-title-2:hover{
+    text-decoration: underline;
+    color: lawngreen;
+}
+
+.slider-title-3:hover{
+    text-decoration: underline;
+    color: yellow;
+}
+
+.slider-title-4:hover{
+    text-decoration: underline;
+    color: white;
+}
+
+.dropdown-item: hover{
+    color: red;
+}
+ 
