@@ -118,4 +118,9 @@ a.color-it.navbar-brand {
 .footer-pages{
     font-family: 'Lato', sans-serif;
     font-size: 0.5rem;
+    color: white;
+}
+
+hr{
+    color: white;
 }
