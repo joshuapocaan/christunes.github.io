@@ -116,9 +116,20 @@ a.color-it.navbar-brand {
 }
  
 .footer-pages{
+    color: white;
+}
+
+.footer-link: hover{
+    color: white;
+    text-decoration: underline;
     font-family: 'Lato', sans-serif;
     font-size: 1rem;
+}
+
+.footer-link{
     color: white;
+    font-family: 'Lato', sans-serif;
+    font-size: 1rem;
 }
 
 hr{
