@@ -111,7 +111,7 @@ a.color-it.navbar-brand {
     color: white;
 }
 
-.dropdown-item: hover{
+.dropdown-item:hover{
     color: red;
 }
  
@@ -119,7 +119,7 @@ a.color-it.navbar-brand {
     color: white;
 }
 
-.footer-link: hover{
+.footer-link:hover{
     color: white;
     text-decoration: underline;
     font-family: 'Lato', sans-serif;
